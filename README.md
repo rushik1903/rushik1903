@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sai Rushik Jasti</h1>
-<h3 align="center">Hi, I'm John, and I'm currently in my third year studying Computer Science and Engineering. I've had the opportunity to work on a variety of projects that have allowed me to explore my interests in web development, game development, machine learning, and artificial intelligence. I've developed several websites and web applications, which have helped me improve my skills in front-end and back-end development. In addition to web development, I've also worked on game development projects using Unity, where I've gained a better understanding of game mechanics, graphics, and game engines. I'm also fascinated by machine learning and artificial intelligence, and I've worked on projects that have enabled me to apply these technologies in practical ways. For example, I've developed a recommendation system using machine learning algorithms and created a chatbot using natural language processing. Overall, I'm excited to continue exploring technology's creative possibilities and to learn new things through my work on exciting projects.</h3>
+<h3 align="center">Hi, I'm Rushik, a CSE student at IIITDM Kancheepuram. I have worked on web dev, game dev, machine learning, and artificial intelligence projects. I enjoy exploring technology's creative possibilities and learning new things through diverse projects.
+
+
+
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushik1903&label=Profile%20views&color=0e75b6&style=flat" alt="rushik1903" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushik1903" alt="rushik1903" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushik1903](https://github.com/rushik1903)
 
