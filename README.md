@@ -5,7 +5,7 @@
 
 .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushik1903&label=Profile%20views&color=0e75b6&style=flat" alt="rushik1903" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushik1903&label=Profile%20views&color=0e75b6&style=flat" alt="rushik1903" /> </p> -->
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushik1903](https://github.com/rushik1903)
