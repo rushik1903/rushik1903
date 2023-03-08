@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sairushik.jasti@gmail.com**
 
-- 📄 Know about my experiences [https://pumped-war-c93.notion.site/Resume-cf42fc327b784439a188cc684aa7199f](https://pumped-war-c93.notion.site/Resume-cf42fc327b784439a188cc684aa7199f)
+- 📄 Know about my experiences [https://pumped-war-c93.notion.site/Resume-cf42fc327b784439a188cc684aa7199f](https://tangy-fountain-f79.notion.site/Resume-36b709fa0a6b470f826cccb176b529d4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
