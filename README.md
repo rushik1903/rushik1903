@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://pumped-war-c93.notion.site/Resume-cf42fc327b784439a188cc684aa7199f](https://tangy-fountain-f79.notion.site/Resume-36b709fa0a6b470f826cccb176b529d4)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai rushik jasti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai rushik jasti" height="30" width="40" /></a>
 <a href="https://instagram.com/jastisairushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jastisairushik" height="30" width="40" /></a>
