@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Rushik Jasti</h1>
-<h3 align="center">Hi, I'm Rushik, a CSE student at IIITDM Kancheepuram. I have worked on web dev, game dev, machine learning, and artificial intelligence projects. I enjoy exploring technology's creative possibilities and learning new things through diverse projects.
+<h3 align="center">Hi, I'm Rushik, a CS student. I have worked on web dev, game dev, machine learning, and artificial intelligence projects. I enjoy exploring technology's creative possibilities and learning new things through diverse projects.
 
 
 
